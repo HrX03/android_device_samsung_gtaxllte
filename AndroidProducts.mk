@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_gtaxllte.mk
+    $(LOCAL_DIR)/potato_gtaxllte.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_gtaxllte-userdebug
+    potato_gtaxllte-userdebug
